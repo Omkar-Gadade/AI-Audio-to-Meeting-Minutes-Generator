@@ -1,6 +1,7 @@
 # 🎙️ AI-Audio-to-Meeting-Minutes-Generator
 
 An end-to-end AI application that converts meeting audio into **structured meeting minutes** using open-source models. Recommended to use T4 GPU on Colab 
+## Note: To view the code please download the .ipynb file as it may not render properly in Github because of certain technical issues from Github for .ipynb files
 
 ---
 
